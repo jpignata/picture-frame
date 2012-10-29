@@ -1,6 +1,6 @@
 # Picture Frame
 
-Sample application written in http://tx.pignata.com/2012/10/building-the-real-time-web-with-server-sent-events.html
+Sample application written in http://tx.pignata.com/2012/10/building-real-time-web-applications-with-server-sent-events.html
 
 Deployed to http://picture-frame.herokuapp.com
 
